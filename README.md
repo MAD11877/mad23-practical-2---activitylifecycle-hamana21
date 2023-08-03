@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/LFiEPPgW)
 # MAD Practical 2 - Activity
 You will be creating your first Android app! Your app will have a profile page on its main Activity.<br/>
 Follow the instructions below to complete your app.
@@ -16,7 +17,7 @@ Follow the instructions below to complete your app.
 
 4. In your onCreate method, the name and description are loaded from the User object. The button on the left will show “Follow” if the variable followed is false, and vice versa.
 
-5.	When the left button is clicked, it will toggle the text between Follow and Unfollow. The variable followed is also updated to reflect this.
+5.	When the left button is clicked, it will toggle the text between Follow and Unfollow. The variable followed is also updated to reflect this. yes
 
 # CHALLENGE
 6.	When the app is rotated, some of the UI components disappeared as shown in the figure below. Resolve this UI bug such that all components are visible regardless of the screen orientation.<br/><br/>Hint: ScrollView
